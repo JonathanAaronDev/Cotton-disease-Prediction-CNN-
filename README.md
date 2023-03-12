@@ -28,14 +28,14 @@ Data Augmentation:
 
 Model Tested:
 - Base Model with 2 Convolution layers.
-- VGG-16 With Transfer learning.(Best result 99% acc)
+- VGG-16 With Transfer learning.(Best result 98% acc)
 
 ![image](https://user-images.githubusercontent.com/109544498/224576792-3e73764a-3244-4a81-9661-9792e3475cbc.png)
 
 
 - VGG-19 With Transfer learning.
 - ResNet50 With Transfer learning.
-- MobileNetV2.(Top Result 94% acc suitble for mobile dev light Weight and fast)
+- MobileNetV2.(Top Result 92% acc suitble for mobile dev light Weight and fast)
 
 ![image](https://user-images.githubusercontent.com/109544498/224576847-da0c7fd4-b6da-40f5-ab7a-260cfe19c439.png)
 
