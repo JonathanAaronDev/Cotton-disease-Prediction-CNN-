@@ -53,6 +53,5 @@ This is a model that has undergone FINE-TUNE and weights of . IMAGENET
 
 For more details about the project:
 
-- Download the pptx file above.
 - Download the docx file above.
 
