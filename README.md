@@ -1,5 +1,8 @@
 # Cotton-disease-Prediction-CNN
 
+
+![image](https://user-images.githubusercontent.com/109544498/224577063-1ec70736-63e1-40fb-b0f6-1a773bc781a6.png)
+
 EASY WAY TO WATCH:
 
 https://www.kaggle.com/code/agrinurture/cotton-disease-prediction-cnn
