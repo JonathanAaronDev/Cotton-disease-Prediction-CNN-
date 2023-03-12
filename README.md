@@ -22,7 +22,7 @@ The images are colored and their size is height-256 length-256 color method-RGB(
 
 Data Augmentation:
 
--Data augmentation was used. The types of augmentation are change of height, length, rotation, zoom, applying colors and flipping.
+- Data augmentation was used. The types of augmentation are change of height, length, rotation, zoom, applying colors and flipping.
 
  ![image](https://user-images.githubusercontent.com/109544498/224564259-b420fb09-3ba2-4404-8ebb-166d7d4e8493.png)
 
