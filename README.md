@@ -47,7 +47,8 @@ Model Tested:
 
 
 
-Summary:
+- Summary:
+
 In conclusion, it can be seen that even the simplest model with 2 convolution layers gives us results of over 95 percent in both testing and validation.
 But the model with the best results is VGG-16/19 with an SGD optimizer with a learning curve of 0.001 and a momentum of 0.9 in order to overcome the local minimum problem.
 This model is the model that gave the best results of 99% on the training set, although the training set is small, but the results always ranged from 0.97 to 0.99, which means that the model consistently gives reliable results.
