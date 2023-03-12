@@ -21,7 +21,7 @@ Data Augmentation:
  ![image](https://user-images.githubusercontent.com/109544498/224564259-b420fb09-3ba2-4404-8ebb-166d7d4e8493.png)
 
 Model Tested:
--Base Model with 2 Convolution layers.
+- Base Model with 2 Convolution layers.
 - VGG-16 With Transfer learning.(Best result 99% acc)
 - VGG-19 With Transfer learning.
 - ResNet50 With Transfer learning.
